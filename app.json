@@ -1,0 +1,15 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "petr",
+  "scripts": {
+  },
+  "stack": "heroku-18"
